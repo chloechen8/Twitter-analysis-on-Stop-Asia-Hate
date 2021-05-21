@@ -20,4 +20,7 @@ collect the data
 2. Run the .py file to get .json files
 
 ## Results:
-
+![Alt text](https://github.com/chloechen8/Twitter-analysis-on-Stop-Asia-Hate/blob/main/Picture/StatePicture.png)
+![Alt text](https://github.com/chloechen8/Twitter-analysis-on-Stop-Asia-Hate/blob/main/Picture/LargePopulationState.png)
+![Alt text](https://github.com/chloechen8/Twitter-analysis-on-Stop-Asia-Hate/blob/main/Picture/FewerPopulationState.png)
+![Alt text](https://github.com/chloechen8/Twitter-analysis-on-Stop-Asia-Hate/blob/main/Picture/NegativeWordCloud.png)
